@@ -1,0 +1,72 @@
+{
+  "main": {
+    "name":"Alexandru Bangau",
+    "occupation":"Full-Stack Web Developer",
+    "description":"I like to code things from scratch, and enjoy bringing ideas to life in the browser",
+    "image":"profilepic.jpg",
+    "contactmessage":"Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+    "email": "bangau.alexandru@gmail.com",
+    "phone": "+39 (351) 924-4690",
+    "address":{
+      "city":"Turin",
+      "state":"Italy",
+      "zip": "10050"
+    },
+    "website": "https://www.alex-portfolio.org/",
+    "resumedownload":"https://drive.google.com/drive/my-drive",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/alex_maxinova",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/m-gnanendra-reddy-a62a82222/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/gnanendragithub",
+        "className":"fa fa-github"
+      },
+      {
+        
+      },
+      {
+        "name":"email",
+        "url":"mailto:mgnanendrareddy09@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Vemu institute of engineering and technology",
+        "degree":"Computer science and engineering",
+        "graduated":"July 2022",
+        "description":"Completed my graduation in CSE department from 2018-2022"
+      },
+      {
+        "school":"Intermediate",
+        "degree":"MPC",
+        "graduated":"2018",
+        "description":"The first year required the study of foundations of mathematics, physics, and chemistry."
+      }
+    ]
+    
+    
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"gnanendra has a great mentality that always seeks to improve his skills. His discipline makes working with him easy and challenging at the same time. He loves to share his ideas and accomplishments with other people, which makes him very easily leave an impact in any working environment.",
+        "user":"GNANENDRA | Software Engineer - Full Stack Ruby on Rails/React.js"
+      },
+      {
+        
+      }
+    ]
+  }
+}
